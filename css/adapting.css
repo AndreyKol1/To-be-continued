@@ -1,17 +1,17 @@
 @media only screen and (max-width: 1200px){
 	.container{
 	height: 800px;
-	width: 970px;
+	width: 985px;
 }
 	.firstimg{
 	height: 350px;
-	width:	460px;
+	width:	480px;
 	border-radius: 16%;
 	padding: -30px;
 }
 .secondimg{
 	height: 350px;
-	width:	470px;
+	width:	480px;
 	border-radius: 16%;
 }
 .a{
@@ -95,17 +95,17 @@
 @media only screen and (max-width: 320px){
 			.container{
 	height: 800px;
-	width: 950px;
+	width: 830px;
 }
 	.firstimg{
 	height: 440px;
-	width:	420px;
+	width:	400px;
 	border-radius: 16%;
 	padding: -30px;
 }
 .secondimg{
 	height: 440px;
-	width:	430px;
+	width:	400px;
 	border-radius: 16%;
 }
 .a{
