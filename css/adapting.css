@@ -1,17 +1,17 @@
 @media only screen and (max-width: 1200px){
 	.container{
 	height: 800px;
-	width: 985px;
+	width: 1180px;
 }
 	.firstimg{
 	height: 350px;
-	width:	480px;
+	width:	570px;
 	border-radius: 16%;
 	padding: -30px;
 }
 .secondimg{
 	height: 350px;
-	width:	480px;
+	width:	570px;
 	border-radius: 16%;
 }
 .a{
