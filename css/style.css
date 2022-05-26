@@ -16,16 +16,16 @@
 }
 
 .firstimg{
-	height: 80px;
-	width:	80px;
+	height: 130px;
+	width:	130px;
 	border-radius: 16%;
 }
 .firstimg:hover{
 	transform: scale(1.2);
 }
 .secondimg{
-	height: 80px;
-	width:	80px;
+	height: 130px;
+	width:	130px;
 	border-radius: 16%;
 }
 .secondimg:hover{
