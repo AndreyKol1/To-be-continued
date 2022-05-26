@@ -1,6 +1,6 @@
 .container{
 	height: 800px;
-	width: 300px;
+	width: 400px;
 
 }
 .tt{
@@ -17,15 +17,16 @@
 
 .firstimg{
 	height: 190px;
-	width:	140px;
+	width:	180px;
 	border-radius: 16%;
+	padding: -30px;
 }
 .firstimg:hover{
 	transform: scale(1.2);
 }
 .secondimg{
 	height: 190px;
-	width:	140px;
+	width:	180px;
 	border-radius: 16%;
 }
 .secondimg:hover{
@@ -35,3 +36,13 @@
 	font-family: cursive;}
 .b{
 	font-family: cursive;}
+
+.a.head{
+	margin:-5px;}
+.a.head1{
+	margin: 5px;}
+.b.head2{
+	margin:-5px;}
+.b.head3{
+	margin: 5px;}
+
