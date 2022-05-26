@@ -43,22 +43,45 @@
 .b{
 	font-family: cursive;
 	font-size: 30px}
-	
 }
 @media only screen and (max-width: 768px){
 .container{
 	height: 800px;
-	width: 950px;
+	width: 750px;
 }
 	.firstimg{
 	height: 290px;
-	width:	450px;
+	width:	360px;
 	border-radius: 16%;
 	padding: -30px;
 }
 .secondimg{
 	height: 290px;
-	width:	460px;
+	width:	360px;
+	border-radius: 16%;
+}
+.a{
+	font-family: cursive;
+	font-size: 40px;}
+.b{
+	font-family: cursive;
+	font-size: 40px}
+
+}
+@media only screen and (max-width: 480px){
+.container{
+	height: 800px;
+	width: 460px;
+}
+	.firstimg{
+	height: 200px;
+	width:	220px;
+	border-radius: 16%;
+	padding: -30px;
+}
+.secondimg{
+	height: 200px;
+	width:	220px;
 	border-radius: 16%;
 }
 .a{
@@ -67,52 +90,28 @@
 .b{
 	font-family: cursive;
 	font-size: 30px}
-
-}
-@media only screen and (max-width: 480px){
-.container{
-	height: 800px;
-	width: 950px;
-}
-	.firstimg{
-	height: 440px;
-	width:	420px;
-	border-radius: 16%;
-	padding: -30px;
-}
-.secondimg{
-	height: 440px;
-	width:	430px;
-	border-radius: 16%;
-}
-.a{
-	font-family: cursive;
-	font-size: 60px;}
-.b{
-	font-family: cursive;
-	font-size: 60px}
 }
 @media only screen and (max-width: 320px){
 .container{
 	height: 800px;
-	width: 830px;
+	width: 290px;
 }
 	.firstimg{
-	height: 440px;
-	width:	400px;
+	height: 100px;
+	width:	130px;
 	border-radius: 16%;
 	padding: -30px;
 }
 .secondimg{
-	height: 440px;
-	width:	400px;
+	height: 100px;
+	width:	130px;
 	border-radius: 16%;
 }
 .a{
 	font-family: cursive;
-	font-size: 60px;}
+	font-size: 20px;}
 .b{
 	font-family: cursive;
-	font-size: 60px}
+	font-size: 20px}
 
 }
