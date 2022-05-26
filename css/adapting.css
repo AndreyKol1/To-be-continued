@@ -1,9 +1,9 @@
 @media only screen and (max-width: 1200px){
-	.container{
+.container{
 	height: 800px;
 	width: 1180px;
 }
-	.firstimg{
+.firstimg{
 	height: 350px;
 	width:	570px;
 	border-radius: 16%;
@@ -22,11 +22,11 @@
 	font-size: 30px}
 }
 @media only screen and (max-width: 992px){
-		.container{
+.container{
 	height: 800px;
 	width: 950px;
 }
-	.firstimg{
+.firstimg{
 	height: 290px;
 	width:	450px;
 	border-radius: 16%;
@@ -46,11 +46,11 @@
 	
 }
 @media only screen and (max-width: 768px){
-			.container{
+.container{
 	height: 800px;
 	width: 950px;
 }
-	.firstimg{
+.firstimg{
 	height: 290px;
 	width:	450px;
 	border-radius: 16%;
@@ -70,11 +70,11 @@
 
 }
 @media only screen and (max-width: 480px){
-			.container{
+.container{
 	height: 800px;
 	width: 950px;
 }
-	.firstimg{
+.firstimg{
 	height: 440px;
 	width:	420px;
 	border-radius: 16%;
@@ -93,11 +93,11 @@
 	font-size: 60px}
 }
 @media only screen and (max-width: 320px){
-			.container{
+.container{
 	height: 800px;
 	width: 830px;
 }
-	.firstimg{
+.firstimg{
 	height: 440px;
 	width:	400px;
 	border-radius: 16%;
