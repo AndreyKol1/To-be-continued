@@ -1,0 +1,38 @@
+.container{
+	height: 800px;
+	width: 500px;
+	margin-top: 50px;
+	margin-left: 50px;
+}
+.tt{
+	float: left;
+	margin-top: 0px;
+	text-align: center;
+}
+
+.tt1{
+	float: right;
+	margin-top: -34px;
+	text-align: center;
+}
+
+.firstimg{
+height: 200px;
+width:	200px;
+border-radius: 16%;
+}
+.firstimg:hover{
+	transform: scale(1.2);
+}
+.secondimg{
+height: 200px;
+width:	200px;
+border-radius: 16%;
+}
+.secondimg:hover{
+	transform: scale(1.2);
+}
+.a{
+font-family: cursive;}
+.b{
+font-family: cursive;}
