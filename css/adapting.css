@@ -1,17 +1,17 @@
 @media only screen and (max-width: 1200px){
 .container{
 	height: 800px;
-	width: 990px;
+	width: 960px;
 }
 	.firstimg{
 	height: 350px;
-	width:	483px;
+	width:	463px;
 	border-radius: 16%;
 	padding: -30px;
 }
 .secondimg{
 	height: 350px;
-	width:	483px;
+	width:	463px;
 	border-radius: 16%;
 }
 .a{
@@ -24,17 +24,17 @@
 @media only screen and (max-width: 992px){
 .container{
 	height: 800px;
-	width: 843px;
+	width: 823px;
 }
 	.firstimg{
 	height: 320px;
-	width:	408px;
+	width:	390px;
 	border-radius: 16%;
 	padding: -30px;
 }
 .secondimg{
 	height: 320px;
-	width:	408px;
+	width:	390px;
 	border-radius: 16%;
 }
 .a{
@@ -47,17 +47,17 @@
 @media only screen and (max-width: 768px){
 .container{
 	height: 800px;
-	width: 690px;
+	width: 670px;
 }
 	.firstimg{
 	height: 270px;
-	width:	338px;
+	width:	328px;
 	border-radius: 16%;
 	padding: -30px;
 }
 .secondimg{
 	height: 270px;
-	width:	338px;
+	width:	328px;
 	border-radius: 16%;
 }
 .a{
@@ -71,17 +71,17 @@
 @media only screen and (max-width: 480px){
 .container{
 	height: 800px;
-	width: 380px;
+	width: 320px;
 }
 	.firstimg{
 	height: 160px;
-	width:	185px;
+	width:	175px;
 	border-radius: 16%;
 	padding: -30px;
 }
 .secondimg{
 	height: 160px;
-	width:	185px;
+	width:	175px;
 	border-radius: 16%;
 }
 .a{
