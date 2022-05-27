@@ -1,17 +1,17 @@
 @media only screen and (max-width: 1200px){
 .container{
 	height: 800px;
-	width: 1000px;
+	width: 990px;
 }
 	.firstimg{
 	height: 350px;
-	width:	487px;
+	width:	483px;
 	border-radius: 16%;
 	padding: -30px;
 }
 .secondimg{
 	height: 350px;
-	width:	487px;
+	width:	483px;
 	border-radius: 16%;
 }
 .a{
@@ -24,17 +24,17 @@
 @media only screen and (max-width: 992px){
 .container{
 	height: 800px;
-	width: 853px;
+	width: 843px;
 }
 	.firstimg{
 	height: 320px;
-	width:	410px;
+	width:	408px;
 	border-radius: 16%;
 	padding: -30px;
 }
 .secondimg{
 	height: 320px;
-	width:	410px;
+	width:	408px;
 	border-radius: 16%;
 }
 .a{
@@ -47,17 +47,17 @@
 @media only screen and (max-width: 768px){
 .container{
 	height: 800px;
-	width: 700px;
+	width: 690px;
 }
 	.firstimg{
 	height: 270px;
-	width:	336px;
+	width:	338px;
 	border-radius: 16%;
 	padding: -30px;
 }
 .secondimg{
 	height: 270px;
-	width:	336px;
+	width:	338px;
 	border-radius: 16%;
 }
 .a{
@@ -71,17 +71,17 @@
 @media only screen and (max-width: 480px){
 .container{
 	height: 800px;
-	width: 390px;
+	width: 380px;
 }
 	.firstimg{
 	height: 160px;
-	width:	190px;
+	width:	185px;
 	border-radius: 16%;
 	padding: -30px;
 }
 .secondimg{
 	height: 160px;
-	width:	190px;
+	width:	185px;
 	border-radius: 16%;
 }
 .a{
@@ -94,7 +94,7 @@
 @media only screen and (max-width: 320px){
 .container{
 	height: 800px;
-	width: 290px;
+	width: 279px;
 }
 	.firstimg{
 	height: 100px;
