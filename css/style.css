@@ -13,6 +13,10 @@
 	margin-top: -34px;
 	text-align: center;
 }
+.firstimg{
+	height: 190px;
+	width:	180px;
+	border-radius: 16%;}
 
 .secondimg{
 	height: 190px;
@@ -34,16 +38,7 @@
 .bh.head3{
 	margin: 5px;}
 
-.gif{
-	width: 490px;
-	height: 400px;
-	background-image: url(img/1.59.1.jpg);
-	border-radius: 15px;
-	
 
-}
-.gif:hover{
-	width: 490px;
-	height: 400px;
-	background-image: url(img/1.59.gif);}
+
+
 
