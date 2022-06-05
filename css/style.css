@@ -24,19 +24,24 @@ max-width: 100%;
 	object-fit: cover;
 	border-radius: 10%;
 }
+
+
 h2{
-	color: ghostwhite;
+	color: red;
 	font-family: cursive;
-	margin: 12px;}
+	margin: 3px;
+
+	}
 h3{
-	color: ghostwhite;
+	color: red;
 	font-family: cursive;
-	margin: 12px;
+	margin: 3px;
+	padding: 7px;
 }
 a{
  	background-color: rgb(153, 101, 0);
  	color: ghostwhite;
- 	padding: 7px 35px;
+ 	padding: 7px 38px;
  	text-decoration: none;
  	border-radius: 10%;
  }
