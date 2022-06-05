@@ -27,13 +27,13 @@ max-width: 100%;
 
 
 h2{
-	color: red;
+	color: ghostwhite;
 	font-family: cursive;
 	margin: 3px;
 
 	}
 h3{
-	color: red;
+	color: ghostwhite;
 	font-family: cursive;
 	margin: 3px;
 	padding: 7px;
@@ -43,7 +43,7 @@ a{
  	color: ghostwhite;
  	padding: 7px 38px;
  	text-decoration: none;
- 	border-radius: 15%;
+ 	border-radius: 12%;
  }
 
 
