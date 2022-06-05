@@ -32,10 +32,13 @@ max-width: 100%;
 	font-family: cursive;
 	margin: 6px;}
 h2{
-	color: whitesmoke;}
+	color: ghostwhite;}
 h3{
-	color: whitesmoke;
+	color: ghostwhite;
 }
+button{
+ 	background-color: rgb(153, 101, 0);
+ 	color: ghostwhite;}
 
 
 
