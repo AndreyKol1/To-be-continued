@@ -19,33 +19,72 @@
 }
 
 .tt1 img{
-max-width: 100%;
+	max-width: 100%;
 	float: right;
 	object-fit: cover;
 	border-radius: 10%;
+	
 }
-
-
 h2{
-	color: ghostwhite;
+	color: red;
 	font-family: cursive;
 	margin: 0px;
-
-	}
+}
 h3{
-	color: ghostwhite;
+	color: red;
 	font-family: cursive;
 	margin: 0px;
 	padding-bottom: 9px;
 	
 }
-a{
+.gig{
  	background-color: rgb(153, 101, 0);
  	color: ghostwhite;
  	padding: 7px 38px;
  	text-decoration: none;
  	border-radius: 10%;
  }
+
+.gif{
+	background:url('img/1.59.1.jpg') no-repeat; /* Заливаем блок статичной картинкой */
+	max-width: 100%;
+	float: left;
+	object-fit: cover:;
+	border-radius: 10%;
+	background-position: left;
+	background-size:100%;
+
+}
+
+/* Как видно, начальное (статическое) изображение задано как фон блока с шириной и высотой этого изображения. */
+
+.gif img {
+	max-width: 100%;
+	float: left;
+	object-fit: cover:;
+	border-radius: 10%;
+	visibility:hidden; /* Aнимация не была видна в ситуации, когда мышь не наведена */
+
+}
+
+.gif:hover {
+	max-width: 100%;
+	float: left;
+	object-fit: cover:;
+	border-radius: 10%;
+	background:none; /* Фон (статичное изображение) не было видно при наведении мыши */
+
+}
+
+.gif:hover img {
+	max-width: 100%;
+	float: left;
+	object-fit: cover:;
+	border-radius: 10%;
+	visibility:visible; /* При наведении анимация показывается */
+	border:0; /* без обрамления ;) */
+}
+
 
 
 
