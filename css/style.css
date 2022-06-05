@@ -2,30 +2,33 @@
 	float: left;
 	margin-top: 0px;
 	text-align: center;
-	max-width: 50%;
+	max-width: 45%;
 	margin-top: 35px;
 }
 
 .tt1{
 	float: right;
 	text-align: center;
-	max-width: 50%;
+	max-width: 45%;
 }
 .tt img{
 max-width: 100%;
 float: left;
-object-fit: cover:;}
+object-fit: cover:;
+border-radius: 15%;}
 
 .tt1 img{
 max-width: 100%;
 float: right;
-object-fit: cover ;
+object-fit: cover;
+border-radius: 15%;
 }
 
 .ah{
 	font-family: cursive;}
 .bh{
 	font-family: cursive;}
+
 
 
 
