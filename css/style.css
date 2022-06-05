@@ -24,20 +24,23 @@ max-width: 100%;
 	object-fit: cover;
 	border-radius: 10%;
 }
-
-
 h2{
 	color: ghostwhite;
-	font-family: cursive;}
+	font-family: cursive;
+	margin: 12px;}
 h3{
 	color: ghostwhite;
 	font-family: cursive;
+	margin: 12px;
 }
 a{
  	background-color: rgb(153, 101, 0);
  	color: ghostwhite;
- 	padding: 10px 40px;
+ 	padding: 7px 35px;
  	text-decoration: none;
+ 	border-radius: 10%;
+ }
+
 
 
 
