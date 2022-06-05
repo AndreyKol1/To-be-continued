@@ -1,43 +1,31 @@
-.container{
-	height: 800px;
-	width: 900px;
-}
 .tt{
 	float: left;
 	margin-top: 0px;
 	text-align: center;
+	max-width: 50%;
+	margin-top: 35px;
 }
 
 .tt1{
 	float: right;
-	margin-top: -34px;
 	text-align: center;
+	max-width: 50%;
 }
-.firstimg{
-	height: 190px;
-	width:	180px;
-	border-radius: 16%;}
+.tt img{
+max-width: 100%;
+float: left;
+object-fit: cover:;}
 
-.secondimg{
-	height: 190px;
-	width:	180px;
-	border-radius: 16%;
+.tt1 img{
+max-width: 100%;
+float: right;
+object-fit: cover ;
 }
 
 .ah{
 	font-family: cursive;}
 .bh{
 	font-family: cursive;}
-
-.ah.head{
-	margin:-5px;}
-.ah.head1{
-	margin: 5px;}
-.bh.head2{
-	margin:-5px;}
-.bh.head3{
-	margin: 5px;}
-
 
 
 
