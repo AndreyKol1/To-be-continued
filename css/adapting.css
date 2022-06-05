@@ -1,18 +1,20 @@
 @media only screen and (max-width: 1200px){
 .container{
-	height: 800px;
-	width: 1010px;
+	height: 100%;
+	width: 100%;
 }
 .firstimg{
-	height: 350px;
-	width:	489px;
+	height: 35%;
+	width:	40%;
 	border-radius: 16%;
-	padding: -30px;
+	object-fit: cover;
 }
 .secondimg{
-	height: 350px;
-	width:	489px;
+	height: 55%;
+	width:	40%;
 	border-radius: 16%;
+	padding: 0%;
+	object-fit: cover;
 }
 .a{
 	font-family: cursive;
@@ -31,11 +33,13 @@
 	width:	380px;
 	border-radius: 16%;
 	padding: -30px;
+	object-fit: cover;
 }
 .secondimg{
 	height: 320px;
 	width:	380px;
 	border-radius: 16%;
+	object-fit: cover;
 }
 .a{
 	font-family: cursive;
@@ -54,11 +58,13 @@
 	width:	245px;
 	border-radius: 16%;
 	padding: -30px;
+	object-fit: cover;
 }
 .secondimg{
 	height: 270px;
 	width:	245px;
 	border-radius: 16%;
+	object-fit: cover;
 }
 .a{
 	font-family: cursive;
@@ -78,11 +84,13 @@
 	width:	160px;
 	border-radius: 16%;
 	padding: -30px;
+	object-fit: cover;
 }
 .secondimg{
 	height: 170px;
 	width:	160px;
 	border-radius: 16%;
+	object-fit: cover;
 }
 .a{
 	font-family: cursive;
@@ -101,11 +109,13 @@
 	width:	138px;
 	border-radius: 16%;
 	padding: -30px;
+	object-fit: cover;
 }
 .secondimg{
 	height: 100px;
 	width:	138px;
 	border-radius: 16%;
+	object-fit: cover;
 }
 .a{
 	font-family: cursive;
