@@ -1,26 +1,28 @@
-
 .tt{
 	float: left;
 	text-align: center;
 	max-width: 45%;
+	
 }
 .tt1{
 	float: right;
 	text-align: center;
-	max-width: 45%;	
+	max-width: 45%;
+
+	
 }
 .tt img{
-max-width: 100%;
-float: left;
-object-fit: cover:;
-border-radius: 10%;
+	max-width: 100%;
+	float: left;
+	object-fit: cover:;
+	border-radius: 10%;
 }
 
 .tt1 img{
 max-width: 100%;
-float: right;
-object-fit: cover;
-border-radius: 10%;
+	float: right;
+	object-fit: cover;
+	border-radius: 10%;
 }
 
 .ah{
@@ -29,7 +31,11 @@ border-radius: 10%;
 .bh{
 	font-family: cursive;
 	margin: 6px;}
-
+h2{
+	color: whitesmoke;}
+h3{
+	color: whitesmoke;
+}
 
 
 
