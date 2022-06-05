@@ -13,11 +13,13 @@
 }
 .tt img{
 max-width: 100%;
-float: left;}
+float: left;
+object-fit: cover:;}
 
 .tt1 img{
 max-width: 100%;
 float: right;
+object-fit: cover ;
 }
 
 .ah{
@@ -25,12 +27,4 @@ float: right;
 .bh{
 	font-family: cursive;}
 
-.ah.head{
-	margin:-5px;}
-.ah.head1{
-	margin: 5px;}
-.bh.head2{
-	margin:-5px;}
-.bh.head3{
-	margin: 5px;}
 
