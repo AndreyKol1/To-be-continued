@@ -33,10 +33,12 @@ h3{
 	color: ghostwhite;
 	font-family: cursive;
 }
-button{
+a{
  	background-color: rgb(153, 101, 0);
  	color: ghostwhite;
- 	width: 130px;}
+ 	padding: 10px 40px;
+ 	text-decoration: none;
+
 
 
 
