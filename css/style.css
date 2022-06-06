@@ -118,7 +118,6 @@ height: 100%;
 background: #60a645;
 border-radius: 0;
 text-align: center;
-font-size: 14px;
 color: #fff;
 z-index: 9999;
 cursor: pointer;
@@ -131,7 +130,6 @@ height: 100%;
 background: #60a645;
 border-radius: 0;
 text-align: center;
-font-size: 14px;
 color: #fff;
 z-index: 9999;
 cursor: pointer;
@@ -161,6 +159,8 @@ line-height: 30px;
 a {
 text-decoration: none;
 }
+
+
 
 
 
