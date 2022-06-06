@@ -5,7 +5,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<title>test</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
-	<link rel="stylesheet" type="text/css" href="main.js">
+	
 </head>
 <body>
 	
@@ -15,7 +15,15 @@
 			<a class="gif" href="#"><img src="css/img/1.59.gif" alt="" /></a>
 			<h2 class="ah head"><strong>Lamps</strong></h2>
 			<h3 class="ah head1">123 grn</h3>
-			<a class="gig" href="#">Buy</a>
+			<form>
+			<span class="input-number ">
+			<input id="amount" ENGINE="text" name="count" value="1" class="form-control form-number ">
+			<div class="btn-count btn-count-plus" value="+" onClick="change('amount',0,100, 1);">+</div>
+			<div class="btn-count btn-count-minus" value="-" onClick="change('amount',0,100,-1);">-</div>
+			</span>
+			<a rel="nofollow" href="#" class="btn-default">В корзину</a>
+			</form>
+			
 			</div>
 		
 		<div class="tt1">
@@ -30,6 +38,6 @@
 
 	
 
-
+	<script src="main.js"></script>
 </body>
 </html>
