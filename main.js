@@ -1,7 +1,25 @@
-function change(objName, min, max, step) {
-var obj = document.getElementById(objName);
-var tmp = +obj.value + step;
-if (tmp<min) tmp=min;
-if (tmp>max) tmp=max;
-obj.value = tmp;
+const counter = function () {
+  const btns = document.querySelectorAll('.counter__btn');
+
+
+
+  btns.forEach(btn => {
+    btn.addEventListener('click', function () {
+      const direction = this.dataset.direction;
+      const inp = this.parentElement.querySelector('.counter__value');
+      const currentValue = +inp.value;
+      let newValue;
+
+      if (direction === 'plus') {
+        newValue = currentValue + 1;
+      } else {
+        newValue = currentValue - 1 > 0 ? currentValue - 1 : 0;
+      }
+
+      inp.value = newValue;
+    })
+  })
+
 }
+
+counter();
