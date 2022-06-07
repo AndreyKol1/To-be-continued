@@ -89,30 +89,24 @@ h3{
 * {
   -webkit-tap-highlight-color: transparent;
 }
-.input-number {
+.counter{
 position: relative;
 display: inline-block;
-}
- 
-.form-control.form-number {
-width: 100px;
+width: 100%;}
+
+.counter__value{
+height: 100%;
+width: 85px;
 margin-right: 0px;
 border: 1px solid transparent;
 text-align: center;
 height: 20px;
-float: left;
+right: 0;
 background: #ccc;
 }
- 
-.btn-count-minus {
-bottom: 0;
-}
-.btn-count-plus {
-top: 0;
-}
- 
-.btn-countp {
-position: absolute;
+
+button.counter__btn{
+position: relative;
 width: 30px;
 height: 100%;
 background: #60a645;
@@ -121,41 +115,4 @@ text-align: center;
 color: #fff;
 z-index: 9999;
 cursor: pointer;
-right: 0;
-}
-.btn-countm {
-position: absolute;
-width: 30px;
-height: 100%;
-background: #60a645;
-border-radius: 0;
-text-align: center;
-color: #fff;
-z-index: 9999;
-cursor: pointer;
-left: 0;
-}
- 
-.btn-default {
-font-size: 14px;
-color: rgb(255, 255, 255);
-font-weight: bold;
-text-transform: uppercase;
-vertical-align: top;
-display: inline-block;
-background-color: rgb(96, 166, 69);
-padding: 0 30px;
-border-radius: 3px;
-}
- 
-.btn-default:hover{
-background-color:#7ad258;
-}
-.btn-default {
-height: 30px;
-line-height: 30px;
-}
- 
-a {
-text-decoration: none;
 }
